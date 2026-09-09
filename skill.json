@@ -1,0 +1,13 @@
+{
+  "name": "genpark-edmonds-blossom-general-matching-skill",
+  "version": "1.0.0",
+  "description": "Edmonds' Blossom shrinking algorithm computing maximum cardinality matchings in general undirected graphs with odd cycles and contracted blossoms.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "edmonds-blossom",
+    "general-graph-matching",
+    "blossom-algorithm",
+    "combinatorial-graph"
+  ]
+}
